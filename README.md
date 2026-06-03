@@ -1,1 +1,1 @@
-This is a 3D block image of the north sea generically created with the north sea bathymetry data from pangaea.
+This is a 3D block image of the north sea generically created with the north sea bathymetry data from pangaea. The 3D model was rendered with a fixed elevation angel of 30 degee, while the viewpoint was rotated to azimuth angles of 20 , 40 , 60, and 80 to generate different perspectives. 
